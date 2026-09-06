@@ -2,7 +2,7 @@
 
 Full-stack developer — from desktop Electron apps and serverless Cloudflare backends to full-fledged FastAPI + React web services.
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=React+19+%2B+FastAPI+%2B+Cloudflare+Workers;Stateless+auth+with+HMAC-SHA256;Multi-provider+LLM+relay+with+failover;Serverless+backends+on+the+edge;Screen+OCR+%2B+real-time+translation;Video+%26+voice+calls+with+LiveKit" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=React+19+%2B+TypeScript+%2B+Vite;FastAPI+%2B+Python;Node.js+%2B+Cloudflare+Workers;Cloudflare+D1+%2B+SQLite;Electron+%2B+Tesseract.js;LiveKit+%2B+Tailwind+CSS+4" alt="Typing SVG" />
 
 </div>
 
@@ -57,6 +57,16 @@ Full-stack developer — from desktop Electron apps and serverless Cloudflare ba
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🏆 Engineering Highlights
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1200&color=F5A623&center=true&vCenter=true&width=700&lines=RuslanAI+Translator%3A+Electron+OCR+overlay;RuslanAI+License+Server%3A+Workers+%2B+D1;RuslanAI+MT+Relay%3A+multi-provider+LLM+relay;Vaultbank%3A+full-stack+bank+simulation;Beznegativa%3A+React+landing+on+Workers" alt="Highlights SVG" />
+
+</div>
 
 ---
 
