@@ -64,7 +64,7 @@ Full-stack developer — from desktop Electron apps and serverless Cloudflare ba
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1200&color=F5A623&center=true&vCenter=true&width=700&lines=RuslanAI+Translator%3A+Electron+OCR+overlay;RuslanAI+License+Server%3A+Workers+%2B+D1;RuslanAI+MT+Relay%3A+multi-provider+LLM+relay;Vaultbank%3A+full-stack+bank+simulation;Beznegativa%3A+React+landing+on+Workers" alt="Highlights SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1200&color=F5A623&center=true&vCenter=true&width=700&lines=RAI+Translator%3A+Electron+OCR+overlay;RAI+License+Server%3A+Workers+%2B+D1;RAI+MT+Relay%3A+multi-provider+LLM+relay;Vaultbank%3A+full-stack+bank+simulation;Beznegativa%3A+React+landing+on+Workers" alt="Highlights SVG" />
 
 </div>
 
